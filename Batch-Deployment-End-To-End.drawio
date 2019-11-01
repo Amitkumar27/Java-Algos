@@ -1,1 +1,165 @@
-<mxfile host="www.draw.io" modified="2019-11-01T16:31:27.265Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="ZGbmZW5KO0N-yNz-QtBH" version="12.1.9" type="github" pages="1"><diagram id="b7LLw6YWBvupuV4ORUR-" name="Page-1">7Vrfd6I6EP5rfHQPv9VHtbrbe9uzHt1td+9bCimwAuGEUOX+9TuRIELaSlsV292XlkyGTPLNNwkzsaOPw/VnimLvmjg46GiKs+7oFx1NUw1dg39ckuUSc6DkApf6jlAqBQv/fyyEhVrqOzipKDJCAubHVaFNogjbrCJDlJJVVe2eBFWrMXKxJFjYKJClt77DPCFVFaXs+IJ91xOm+6boCFGhLASJhxyy2hHpk44+poSw/Clcj3HAwStwyd+bPtG7nRjFEWvygnbj27960WSZ9dbohzv/b4lvuno+ygMKUrFgMVmWFQhgBwARTUKZR1wSoWBSSkeUpJGDuRkFWqXOFSExCFUQ/sKMZcK7KGUERB4LA9Gb2+SGnlybECUkpTZ+ZkEFRxB1MXtGT9t6AKiLSYgZzeA9igPE/IfqPJDgkLvVK2GGB4H0C1BXJdTH/866o8nwujufzL5KLqgCvPJ8hhcx2uCwgrB7DMwHTBlePw+nvHzxQhGjImbVgsKrnQgoZN4O+S3lSIBpEmCz9C7wEw+E/yC62RTgz5Ay/95GjAiTbWJ4fiCaHy3WjYax/oSjThPrhoT6l0uwyT0/nfkuH1xTgIl0Cf/h/EwDOO7aJm+Nu1tOtsZdqwF3I2fID3xoRSTiXHVQ4m1AU19HQRmenfWbjyy/kDVmlrAwIz4Y3qLfr6KvD2qo5oEhXto98WvjGPqegfLIkQYCGFG2oxZzhaTxfHvKi2ZVVYeH3HzJlS3+r6dP7y99TkefQzmt/yc5zRgcyGt94zRBX5/wnqivT2uPuqqYb9Mvln3UbWXwl6EnZOihvKbK6Zfstnf1IayKBez/EtYfZ9CJ0l45jZt8u+pe4DggWQir7s5xTCRfnPrj11Sr/Gw/c1ObfL+8L8bqTRlrtcpYuT42jOOATyAvONwuOpoVwAJGdxSeXP40phgxyPCm32Nn86AsGLKX7Wd1vfMjtpzX5btBRxRzkJ0XcxQkWkkBPewchQOUoW0DlKx1gAfnB7BcfnjvO4fZdOfQWt055Grb5fAahpqTTYFnuoCtRRml9hJzTk9nJPBtf9MzuZ5D1zccxjBRnHT5BmLjmFHcOsHrR2P7hSF10AafAS6a/dht/OSDfeqZRftiLUbPW5loHTIQ+qcKhFflhz2tRpX69VRN3zLfpq9aZo1MR0j4VLkmcYNp4pMIhhulfuBA55iAywkfi9zvnGP85LqnJKwfbS2HtGWdW0gXxv6MtFqtV0/1V6bVewc6UOGnbsdQnw9UU3+Zfs94m36x7qNuBNqHy8iKBey/OW81IyumWbs7H17Op1dfb8/j+lyrHX2G2fqWKudZ5QX6ZYhc/uFpoZBjEd0l8RaHFlE0zg/FD3eDrjW9QtdaTaY0OYu9GH5e8LQpSF0/ar+0Ug95Sz8eWaFZ/mosP9DK397pk98=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-01T18:11:39.737Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="_GMi6T5oZ_vQsI25ggey" version="12.1.9" type="github" pages="1">
+  <diagram id="b7LLw6YWBvupuV4ORUR-" name="Page-1">
+    <mxGraphModel dx="1482" dy="669" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFF2CC" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2Vicj7nEky7xaXgRZkeV-1" target="2Vicj7nEky7xaXgRZkeV-2" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-1" value="CKP-BEAM-REPO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-2" value="Publish Jar to Artifcatory" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2Vicj7nEky7xaXgRZkeV-4" target="2Vicj7nEky7xaXgRZkeV-1" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-4" value="HIve /Pig/ Spark Modules" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="260" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-7" value="" style="endArrow=none;solid=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84" y="353" as="sourcePoint"/>
+            <mxPoint x="437" y="354" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-8" value="" style="endArrow=none;solid=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="526" y="535" as="sourcePoint"/>
+            <mxPoint x="869" y="534" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="526" y="247"/>
+              <mxPoint x="876" y="247"/>
+              <mxPoint x="1086" y="247"/>
+              <mxPoint x="1087" y="531"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-9" value="" style="endArrow=none;solid=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="526" y="535" as="sourcePoint"/>
+            <mxPoint x="872" y="534" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2Vicj7nEky7xaXgRZkeV-12" target="2Vicj7nEky7xaXgRZkeV-13" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-12" value="ETL-Deployment-Repo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="546" y="297" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2Vicj7nEky7xaXgRZkeV-13" target="2Vicj7nEky7xaXgRZkeV-16" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-13" value="Apply to AWS&lt;br&gt;Create/Update Stacks" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="746" y="297" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-16" value="Deploy Artifactory artifacts to ETL AWS Account" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="946" y="297" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2Vicj7nEky7xaXgRZkeV-15" target="2Vicj7nEky7xaXgRZkeV-12" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-15" value="IAM/Roles/S3 Buckets/Policies/EMR Templates- Sceptre. &lt;b&gt;Including Sceptre for Airflow&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="541" y="437" width="130" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="2Vicj7nEky7xaXgRZkeV-18" target="2Vicj7nEky7xaXgRZkeV-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="756" y="397"/>
+              <mxPoint x="686" y="397"/>
+              <mxPoint x="686" y="342"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-18" value="Version/Build Control of Artifacts from Artifactory.&lt;br&gt;Including Airflow Artifacts." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="696" y="437" width="140" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-20" value="" style="endArrow=none;solid=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="74" y="703" as="sourcePoint"/>
+            <mxPoint x="74" y="703" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="74" y="383"/>
+              <mxPoint x="439" y="384"/>
+              <mxPoint x="444" y="703"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2Vicj7nEky7xaXgRZkeV-22" target="2Vicj7nEky7xaXgRZkeV-26" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-22" value="CKP-AIRFLOW-REPO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="101" y="437" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-26" value="Publish Images to Artifactory By Modules(Teams). Each team has its own module and their own image/package&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="273" y="422" width="160" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="2Vicj7nEky7xaXgRZkeV-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="161" y="617" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-24" value="DAGS/Plugins" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="101" y="618" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="qDghw3d29qQIAyWCrzP7-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;*&lt;/font&gt;&lt;/b&gt; It depends on AWS as to what they decide&lt;br&gt;for airflow deployment .&lt;br&gt;&amp;nbsp;Google GCP only allows GCS (S3) based &lt;br&gt;deployment of dags." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="448" y="620" width="245" height="58" as="geometry"/>
+        </mxCell>
+        <mxCell id="qDghw3d29qQIAyWCrzP7-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/742px-Jenkins_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="321" y="270" width="38" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="qDghw3d29qQIAyWCrzP7-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/742px-Jenkins_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="448" width="38" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="qDghw3d29qQIAyWCrzP7-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/742px-Jenkins_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="335" y="617" width="38" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="qDghw3d29qQIAyWCrzP7-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="88" y="77" width="47" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="qDghw3d29qQIAyWCrzP7-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="547" y="254" width="47" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="qDghw3d29qQIAyWCrzP7-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="397" width="47" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="qDghw3d29qQIAyWCrzP7-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="158" as="sourcePoint"/>
+            <mxPoint x="525" y="343" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Vicj7nEky7xaXgRZkeV-6" value="" style="endArrow=none;solid=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85" y="354" as="sourcePoint"/>
+            <mxPoint x="437" y="355" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="85" y="68"/>
+              <mxPoint x="436" y="67"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDghw3d29qQIAyWCrzP7-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="442" y="545" as="sourcePoint"/>
+            <mxPoint x="523" y="413" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDghw3d29qQIAyWCrzP7-17" value="ETL Code Jenkins Pipeline" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="277" y="327" width="154" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="qDghw3d29qQIAyWCrzP7-18" value="Airflow Dags/Plugins Jenkins" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="280" y="674.5" width="164" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="qDghw3d29qQIAyWCrzP7-19" value="ETL AWS Deployment Pipeline" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="916" y="508" width="175" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="qDghw3d29qQIAyWCrzP7-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Complete Automation Flow - Batch Pipelines&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="334" y="24" width="392" height="16" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
